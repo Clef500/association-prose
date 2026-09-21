@@ -18,3 +18,5 @@ in_menu: true
 - La ville de Rennes
 - Le PHAKT
 - le 40m2 
+
+![Logo de l’association L’Avenir de Rennes]({% link images/avenir_logo.png %}) ![Logo du GEM le Clin d’Oeil]({% link images/logo_gem.jpg %}) ![Logo des tombées de la nuit]({% link images/tombées_nuit_logo.png %})  ![Logo des Champs Libres]({% link images/champs_libres_logo.png %})  ![Logo de Santé Mentale France]({% link images/smfrance_logo.png %}) 
