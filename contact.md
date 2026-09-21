@@ -3,7 +3,12 @@ title: "Contact"
 order: 4
 in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 6 membres.
+Pour nous contacter, plusieurs canaux :
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+* [mail.prose.g05](mailto:blank)
+
+* le blog de l’association : prose.g05@blogspot.com
+
+* le numéro du CTJ des Colombes : 02...
+
+* l’instagram : 
