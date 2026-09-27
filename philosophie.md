@@ -5,8 +5,6 @@ in_menu: true
 ---
 L’association cherche à œuvrer à l’amélioration de la structure de soin en santé mentale pour le bien-être aussi bien du soignant que de l’usager.
 
-##
-
 
 #### Être adhérent à l’association c’est :
 
