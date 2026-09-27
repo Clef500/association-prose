@@ -17,4 +17,4 @@ in_menu: true
 - Santé Mentale France
 - La ville de Rennes
 - Le PHAKT
-- le 40m2 
+- le 40m³ 
