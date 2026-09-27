@@ -15,4 +15,4 @@ c’est un journal numérique qui permet à tous :
 
 le lien :
 
-### prose.g05@blogspot.com 
+### <pas pour l’instant> 
