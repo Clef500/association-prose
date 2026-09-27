@@ -5,13 +5,13 @@ in_menu: true
 ---
 #### Pour nous contacter, plusieurs canaux :
 
-* [mail.prose.g05](mailto:blank)
+* <pas pour l’instant>
 
-* le blog de l’association : prose.g05@blogspot.com
+* le blog de l’association : <pas pour l’instant>
 
-* le numéro du CTJ des Colombes : 02...
+* le numéro du CTJ des Colombes : <pas pour l’instant>
 
-* l’instagram : 
+* l’instagram : <pas pour l’instant>
 
 
 #### MENTIONS LÉGALES
@@ -27,8 +27,7 @@ in_menu: true
   - tel
 
 - directeur de la publication
-  - Hervé et Camille
-  - numero SIRET
+
 
 - Hébergeur : 
   - github.io
