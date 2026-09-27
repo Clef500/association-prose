@@ -15,4 +15,4 @@ c’est un journal numérique qui permet à tous :
 
 le lien :
 
-### <pas pour l’instant> 
+ <pas pour l’instant> 
